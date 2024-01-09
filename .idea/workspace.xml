@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39dab95e-50bf-4358-9630-d5e2bcf8c695" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B24416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/SIII17393.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BruteForce/GIII16637.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BruteForce/GV1107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BruteForce/SIII21967.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BruteForce/SIII3684.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BruteForce/SV1251.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BruteForce/SV28064.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BruteForce/SV28375.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/GIII1520.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/GV13398.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/GV9084.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/S2839설탕배달.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/SI1149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/SIII1003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/SIII1463.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/SIII2579.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/SIII9095.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/ST1912.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/SV14606.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/BII14487.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/GIII2457.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/SI1931.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/SI20921.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/SII3061.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/SIII2134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/SIV1026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/SIV11047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/SIV11399.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/SIV12927.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/SIV2217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/SV3135.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HASH/SIV1620.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HASH/SIV1764.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HASH/SV25757.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S9184.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/GV6198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/GI1799.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/GIV9663.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/SII1182.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/SIII15649.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/SIII15650.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/SIII15651.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/BI1032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/BI10545.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/BI12791.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/BI17979.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/BI20113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/BII10812.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/BII1333.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/BII23292.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/BII4564.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/BII8741.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/BIII13698.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/BIII2562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/BIII2566.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/BIV27918.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/SIII1291.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/SIII16131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/SIII2594.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/SIII28418.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/SIII달팽이.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/SIV17287.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/SIV2799.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/SV11723.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/SV13119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/SV1475.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/SV1531.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/SV15702.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/SV2238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/SV2563.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/SV2941.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/그래프/GV26124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/그래프/GV7569.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/그래프/GV7576.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/그래프/SI1697.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/그래프/SI2178.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/그래프/SI2667.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/그래프/SII1012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/그래프/SII11724.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/그래프/SII1260.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/그래프/SII2644.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/그래프/SIII2606.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/누적합/SIII11659.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/문자열/BI2804.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/문자열/BI28255.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/문자열/BII1225.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/문자열/BII24937.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/문자열/BII2675.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/문자열/GV1013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/문자열/GV20437.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/문자열/SIV14468.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/문자열/SV5635.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/BI14429.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/BI1934.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/BII13877.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/BII14551.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/BII2028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/BIII10953.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/BIII21312.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/BIII27960.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/BIII3029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/BIII9501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/BIV15726.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/BV1000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/BV1008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/GII9527.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/SI1629.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/SII1024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/SIII2859.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/SV13241.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/SV1676.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/우선순위큐/GII1655.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자료구조/SIII24511.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/정렬/BI23882.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/정렬/SIII20126.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WvAi7lljplrZ3bzuWTjOUHwxu7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.SI1629">
+    <configuration name="BI23882" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="정렬.BI23882" />
+      <module name="BackJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GV1107" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BruteForce.GV1107" />
+      <module name="BackJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BruteForce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BackJoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SI1629" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="수학.SI1629" />
+      <module name="BackJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="수학.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SII11724" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그래프.SII11724" />
+      <module name="BackJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="그래프.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SI1629" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GV1107" />
+        <item itemvalue="Application.BI23882" />
+        <item itemvalue="Application.SII11724" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39dab95e-50bf-4358-9630-d5e2bcf8c695" name="Changes" comment="" />
+      <created>1697602805827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697602805827</updated>
+      <workItem from="1697602807352" duration="2597000" />
+      <workItem from="1698297193589" duration="11971000" />
+      <workItem from="1698653475284" duration="6951000" />
+      <workItem from="1698676122962" duration="5710000" />
+      <workItem from="1698812767920" duration="4840000" />
+      <workItem from="1698895015819" duration="25270000" />
+      <workItem from="1699242126529" duration="7025000" />
+      <workItem from="1699322750193" duration="15723000" />
+      <workItem from="1699452224343" duration="2430000" />
+      <workItem from="1699502907374" duration="1968000" />
+      <workItem from="1699546767583" duration="11560000" />
+      <workItem from="1699841442981" duration="8887000" />
+      <workItem from="1699926879883" duration="1943000" />
+      <workItem from="1699931729020" duration="3480000" />
+      <workItem from="1700013749797" duration="4672000" />
+      <workItem from="1700028863402" duration="2235000" />
+      <workItem from="1700111993679" duration="2047000" />
+      <workItem from="1700208487177" duration="4003000" />
+      <workItem from="1700375983569" duration="1441000" />
+      <workItem from="1700445925967" duration="1176000" />
+      <workItem from="1700538299355" duration="2869000" />
+      <workItem from="1700705720291" duration="938000" />
+      <workItem from="1700811162120" duration="3090000" />
+      <workItem from="1700886275494" duration="467000" />
+      <workItem from="1701004363515" duration="3575000" />
+      <workItem from="1701134009156" duration="932000" />
+      <workItem from="1701137062077" duration="9545000" />
+      <workItem from="1701166777015" duration="3031000" />
+      <workItem from="1701179201615" duration="2650000" />
+      <workItem from="1701222550506" duration="5854000" />
+      <workItem from="1701236685905" duration="3031000" />
+      <workItem from="1701245639762" duration="1200000" />
+      <workItem from="1701406982142" duration="3191000" />
+      <workItem from="1701532953626" duration="3697000" />
+      <workItem from="1701581339926" duration="738000" />
+      <workItem from="1701592337687" duration="6497000" />
+      <workItem from="1701655158314" duration="4672000" />
+      <workItem from="1701664652283" duration="1429000" />
+      <workItem from="1701741365907" duration="2839000" />
+      <workItem from="1701748833750" duration="6586000" />
+      <workItem from="1701763989291" duration="2048000" />
+      <workItem from="1701774645874" duration="593000" />
+      <workItem from="1701828031553" duration="2093000" />
+      <workItem from="1701925191910" duration="4836000" />
+      <workItem from="1702021516439" duration="1230000" />
+      <workItem from="1702025699000" duration="1973000" />
+      <workItem from="1702126718288" duration="1672000" />
+      <workItem from="1702134390171" duration="1822000" />
+      <workItem from="1702263588075" duration="1126000" />
+      <workItem from="1702356234298" duration="1540000" />
+      <workItem from="1702365777394" duration="5394000" />
+      <workItem from="1702431551112" duration="851000" />
+      <workItem from="1702529155322" duration="1789000" />
+      <workItem from="1702661659471" duration="1398000" />
+      <workItem from="1702715998720" duration="1741000" />
+      <workItem from="1702810510607" duration="8695000" />
+      <workItem from="1703139254493" duration="3937000" />
+      <workItem from="1703290815984" duration="10160000" />
+      <workItem from="1703896599632" duration="3281000" />
+      <workItem from="1704073102814" duration="27176000" />
+      <workItem from="1704432004308" duration="6417000" />
+      <workItem from="1704675021935" duration="26026000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
