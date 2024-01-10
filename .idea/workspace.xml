@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39dab95e-50bf-4358-9630-d5e2bcf8c695" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/구현/BI18229.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/구현/BI18229.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/구현/BI18229.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/수학/SI1629.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/수학/SI1629.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BI18229">
+  <component name="RunManager" selected="Application.SI1629">
     <configuration name="BI18229" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="구현.BI18229" />
       <module name="BackJoon" />
@@ -114,8 +115,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BI18229" />
         <item itemvalue="Application.SI1629" />
+        <item itemvalue="Application.BI18229" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.GV1107" />
         <item itemvalue="Application.BI23882" />
@@ -192,7 +193,7 @@
       <workItem from="1704073102814" duration="27176000" />
       <workItem from="1704432004308" duration="6417000" />
       <workItem from="1704675021935" duration="26026000" />
-      <workItem from="1704789281326" duration="1957000" />
+      <workItem from="1704789281326" duration="5051000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;First Commit&quot;&#10;앞으로는 문제 하나당 한번씩 문제 description 추가해서 올리기">
       <created>1704789353794</created>
@@ -201,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704789353794</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="난이도 : Bronze I&#10;제목 : 내가 살게, 아냐 내가 살게&#10;알고리즘 : 구현/시뮬레이션&#10;Comment : 각 사람 별로 K를 넘을 수 있으려면 손을 몇 번 뻗어야 하는지를 계산 후 가장 적게 뻗은 사람의 번호와 해당 횟수를 출력하도록 구현">
+      <created>1704847682838</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704847682838</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +228,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;First Commit&quot;&#10;앞으로는 문제 하나당 한번씩 문제 description 추가해서 올리기" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;First Commit&quot;&#10;앞으로는 문제 하나당 한번씩 문제 description 추가해서 올리기" />
+    <MESSAGE value="난이도 : Bronze I&#10;제목 : 내가 살게, 아냐 내가 살게&#10;알고리즘 : 구현/시뮬레이션&#10;Comment : 각 사람 별로 K를 넘을 수 있으려면 손을 몇 번 뻗어야 하는지를 계산 후 가장 적게 뻗은 사람의 번호와 해당 횟수를 출력하도록 구현" />
+    <option name="LAST_COMMIT_MESSAGE" value="난이도 : Bronze I&#10;제목 : 내가 살게, 아냐 내가 살게&#10;알고리즘 : 구현/시뮬레이션&#10;Comment : 각 사람 별로 K를 넘을 수 있으려면 손을 몇 번 뻗어야 하는지를 계산 후 가장 적게 뻗은 사람의 번호와 해당 횟수를 출력하도록 구현" />
   </component>
 </project>
