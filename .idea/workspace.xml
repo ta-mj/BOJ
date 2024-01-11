@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39dab95e-50bf-4358-9630-d5e2bcf8c695" name="Changes" comment="">
+    <list default="true" id="39dab95e-50bf-4358-9630-d5e2bcf8c695" name="Changes" comment="난이도 : Silver I&#10;제목 : 곱셈&#10;알고리즘 : 수학/분할 정복을 이용한 거듭제곱&#10;Comment : int/long의 범위 판단, (a * b * c) % d = (a % d) * (b % d) * (c % d)">
+      <change afterPath="$PROJECT_DIR$/src/구현/BI5533.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BruteForce/SIII21967.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BruteForce/SIII21967.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/구현/BI18229.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/구현/BI18229.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/수학/SI1629.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/수학/SI1629.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,26 +35,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "module",
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;module&quot;,
+      &quot;directory&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="Application.SI1629">
+}</component>
+  <component name="RunManager" selected="Application.BI5533">
     <configuration name="BI18229" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="구현.BI18229" />
       <module name="BackJoon" />
@@ -67,25 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BI23882" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="정렬.BI23882" />
+    <configuration name="BI5533" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="구현.BI5533" />
       <module name="BackJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="정렬.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GV1107" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BruteForce.GV1107" />
-      <module name="BackJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BruteForce.*" />
+          <option name="PATTERN" value="구현.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,13 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SIII21967" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BruteForce.SIII21967" />
+      <module name="BackJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BruteForce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BI5533" />
+        <item itemvalue="Application.SIII21967" />
         <item itemvalue="Application.SI1629" />
         <item itemvalue="Application.BI18229" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.GV1107" />
-        <item itemvalue="Application.BI23882" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +194,8 @@
       <workItem from="1704073102814" duration="27176000" />
       <workItem from="1704432004308" duration="6417000" />
       <workItem from="1704675021935" duration="26026000" />
-      <workItem from="1704789281326" duration="5051000" />
+      <workItem from="1704789281326" duration="8358000" />
+      <workItem from="1704943521351" duration="1085000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;First Commit&quot;&#10;앞으로는 문제 하나당 한번씩 문제 description 추가해서 올리기">
       <created>1704789353794</created>
@@ -209,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704847682838</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="난이도 : Silver I&#10;제목 : 곱셈&#10;알고리즘 : 수학/분할 정복을 이용한 거듭제곱&#10;Comment : int/long의 범위 판단, (a * b * c) % d = (a % d) * (b % d) * (c % d)">
+      <created>1704866791944</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704866791944</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +238,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;First Commit&quot;&#10;앞으로는 문제 하나당 한번씩 문제 description 추가해서 올리기" />
     <MESSAGE value="난이도 : Bronze I&#10;제목 : 내가 살게, 아냐 내가 살게&#10;알고리즘 : 구현/시뮬레이션&#10;Comment : 각 사람 별로 K를 넘을 수 있으려면 손을 몇 번 뻗어야 하는지를 계산 후 가장 적게 뻗은 사람의 번호와 해당 횟수를 출력하도록 구현" />
-    <option name="LAST_COMMIT_MESSAGE" value="난이도 : Bronze I&#10;제목 : 내가 살게, 아냐 내가 살게&#10;알고리즘 : 구현/시뮬레이션&#10;Comment : 각 사람 별로 K를 넘을 수 있으려면 손을 몇 번 뻗어야 하는지를 계산 후 가장 적게 뻗은 사람의 번호와 해당 횟수를 출력하도록 구현" />
+    <MESSAGE value="난이도 : Silver I&#10;제목 : 곱셈&#10;알고리즘 : 수학/분할 정복을 이용한 거듭제곱&#10;Comment : int/long의 범위 판단, (a * b * c) % d = (a % d) * (b % d) * (c % d)" />
+    <option name="LAST_COMMIT_MESSAGE" value="난이도 : Silver I&#10;제목 : 곱셈&#10;알고리즘 : 수학/분할 정복을 이용한 거듭제곱&#10;Comment : int/long의 범위 판단, (a * b * c) % d = (a % d) * (b % d) * (c % d)" />
   </component>
 </project>
