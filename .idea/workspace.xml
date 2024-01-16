@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39dab95e-50bf-4358-9630-d5e2bcf8c695" name="Changes" comment="난이도 : Silver I&#10;제목 : 곱셈&#10;알고리즘 : 수학/분할 정복을 이용한 거듭제곱&#10;Comment : int/long의 범위 판단, (a * b * c) % d = (a % d) * (b % d) * (c % d)">
-      <change afterPath="$PROJECT_DIR$/src/Stack/SIV4949.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/PV10165.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/SIV11508.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/누적합/SIII27496.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/수학/SV25206.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BruteForce/SIII21967.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BruteForce/SIII21967.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/구현/BI18229.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/구현/BI18229.java" afterDir="false" />
@@ -20,6 +23,7 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="module-info" />
       </list>
     </option>
   </component>
@@ -54,13 +58,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.SIV4949">
-    <configuration name="BI18229" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="구현.BI18229" />
+  <component name="RunManager" selected="Application.SIII27496">
+    <configuration name="PV10165" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.PV10165" />
       <module name="BackJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="구현.*" />
+          <option name="PATTERN" value="Greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BI5533" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="구현.BI5533" />
+    <configuration name="SIII27496" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="누적합.SIII27496" />
       <module name="BackJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="구현.*" />
+          <option name="PATTERN" value="누적합.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,25 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SI1629" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="수학.SI1629" />
+    <configuration name="SIV11508" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.SIV11508" />
       <module name="BackJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="수학.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SIII21967" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BruteForce.SIII21967" />
-      <module name="BackJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BruteForce.*" />
+          <option name="PATTERN" value="Greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,13 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SV25206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="수학.SV25206" />
+      <module name="BackJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="수학.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SIII27496" />
+        <item itemvalue="Application.SV25206" />
+        <item itemvalue="Application.SIV11508" />
+        <item itemvalue="Application.PV10165" />
         <item itemvalue="Application.SIV4949" />
-        <item itemvalue="Application.BI5533" />
-        <item itemvalue="Application.SIII21967" />
-        <item itemvalue="Application.SI1629" />
-        <item itemvalue="Application.BI18229" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +206,10 @@
       <workItem from="1704675021935" duration="26026000" />
       <workItem from="1704789281326" duration="8358000" />
       <workItem from="1704943521351" duration="1203000" />
-      <workItem from="1705019562411" duration="1811000" />
+      <workItem from="1705019562411" duration="2701000" />
+      <workItem from="1705027310001" duration="5278000" />
+      <workItem from="1705165411922" duration="990000" />
+      <workItem from="1705278452150" duration="1346000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;First Commit&quot;&#10;앞으로는 문제 하나당 한번씩 문제 description 추가해서 올리기">
       <created>1704789353794</created>
@@ -232,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704944679254</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="난이도 : Silver IV&#10;제목 : 균형잡힌 세상&#10;알고리즘 : 자료구조/문자열/스택&#10;Comment : 닫는 괄호에 대해, 가장 나중에 나온 열린 괄호와 대칭되어야 하므로 열린 괄호를 스택에 저장한 후 닫는 괄호가 나오면 스택에서 pop을 해 대응되는 괄호인지 확인한다.">
+      <created>1705023161929</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705023161929</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +268,7 @@
     <MESSAGE value="난이도 : Bronze I&#10;제목 : 내가 살게, 아냐 내가 살게&#10;알고리즘 : 구현/시뮬레이션&#10;Comment : 각 사람 별로 K를 넘을 수 있으려면 손을 몇 번 뻗어야 하는지를 계산 후 가장 적게 뻗은 사람의 번호와 해당 횟수를 출력하도록 구현" />
     <MESSAGE value="난이도 : Silver I&#10;제목 : 곱셈&#10;알고리즘 : 수학/분할 정복을 이용한 거듭제곱&#10;Comment : int/long의 범위 판단, (a * b * c) % d = (a % d) * (b % d) * (c % d)" />
     <MESSAGE value="난이도 :  Bronze I&#10;제목 : 유니크&#10;알고리즘 : 수학/구현/사칙연산&#10;Comment : 이차원 배열 count를 이용하여 자신의 count 값이 1인 경우에만 점수를 늘려주도록 구현" />
-    <option name="LAST_COMMIT_MESSAGE" value="난이도 :  Bronze I&#10;제목 : 유니크&#10;알고리즘 : 수학/구현/사칙연산&#10;Comment : 이차원 배열 count를 이용하여 자신의 count 값이 1인 경우에만 점수를 늘려주도록 구현" />
+    <MESSAGE value="난이도 : Silver IV&#10;제목 : 균형잡힌 세상&#10;알고리즘 : 자료구조/문자열/스택&#10;Comment : 닫는 괄호에 대해, 가장 나중에 나온 열린 괄호와 대칭되어야 하므로 열린 괄호를 스택에 저장한 후 닫는 괄호가 나오면 스택에서 pop을 해 대응되는 괄호인지 확인한다." />
+    <option name="LAST_COMMIT_MESSAGE" value="난이도 : Silver IV&#10;제목 : 균형잡힌 세상&#10;알고리즘 : 자료구조/문자열/스택&#10;Comment : 닫는 괄호에 대해, 가장 나중에 나온 열린 괄호와 대칭되어야 하므로 열린 괄호를 스택에 저장한 후 닫는 괄호가 나오면 스택에서 pop을 해 대응되는 괄호인지 확인한다." />
   </component>
 </project>
